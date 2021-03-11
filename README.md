@@ -1,9 +1,8 @@
-[18741489-CD6F-46CA-B097-B5F213165A21_1_105_c)[ https://user-images.githubusercontent.com/65975460/110826939-92ba7b00-8263-11eb-8500-228e2ae70025.jpeg)
-
+![18741489-CD6F-46CA-B097-B5F213165A21_1_105_c] (https://user-images.githubusercontent.com/65975460/110826939-92ba7b00-8263-11eb-8500-228e2ae70025.jpeg)
 
 ### Welcome! My name is Jonathan.
 
-## I'm a Dog Dad, Developer, and Hobbyist Music Producer.
+## Developer, Dog Dad and Hobbyist Music Producer.
 
 - 👨🏾‍🎓 I'm a recent bootcamp Grad.
 - 👀 Currently Seeking employment as a Front-End, Back-End or even Full-Stack Developer.
