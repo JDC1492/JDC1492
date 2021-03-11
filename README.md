@@ -2,9 +2,11 @@
 
 ## I'm a Dog Dad, Developer, and Hobbyist Music Producer.
 
--👨🏾‍🎓 I'm a recent bootcamp Grad.
--👀 Currently Seeking employment as a Front-End, Back-End or even Full-Stack Developer.
--👾 Fun Fact: I love to game when I get the chance to. I'm a huge fan of the RPG genre. One day I would love to be able to do some sort of scoring for a game.
+- 👨🏾‍🎓 I'm a recent bootcamp Grad.
+- 👀 Currently Seeking employment as a Front-End, Back-End or even Full-Stack Developer.
+- 🔭 I’m currently working on becoming a better devloper daily through studies and projects
+- 😄 Pronouns: He/Him
+- 👾 Fun Fact: I love to game when I get the chance to. I'm a huge fan of the RPG genre. One day I would love to be able to do some sort of scoring for a game.
 
 ### Social Media
 
@@ -27,12 +29,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
