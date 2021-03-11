@@ -10,7 +10,7 @@
 
 ### Social Media
 
-[<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jonathan-cohen-bbb2891b4"><a class="LI-simple-link" href='https://www.linkedin.com/in/jonathan-cohen-bbb2891b4?trk=profile-badge'>Jonathan Cohen</a></div>][linkedin]
+[<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jonathan-cohen-bbb2891b4"><a class="LI-simple-link" href='https://www.linkedin.com/in/jonathan-cohen-bbb2891b4?trk=profile-badge'>Jonathan Cohen</a></div>]
 [portfolio]
 [<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fitsdrifta&color=black_white&size=32" style="width: 32px; height: 32px;"></iframe>][soundcloud]
 <br />
