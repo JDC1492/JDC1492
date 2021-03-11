@@ -9,23 +9,12 @@
 - 👀 Currently Seeking employment as a Front-End, Back-End or even Full-Stack Developer.
 - 🔭 I’m currently working on becoming a better devloper daily through studies and projects
 - 😄 Pronouns: He/Him
+- 📫 How to reach me: <a href="mailto:cohendevworks@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/jonathan-cohen-bbb2891b4/">LinkedIn</a>
+- 💻 <a href="https://jonathan-co-portfolio.netlify.app/">My Digital Portfolio</a>
+- 🎧 Looking to hear some of my music? Click <a href="https://soundcloud.com/itsdrifta">here</a>
 - 👾 Fun Fact: I love to game when I get the chance to. I'm a huge fan of the RPG genre. One day I would love to be able to do some sort of scoring for a game.
-
-## Social Media
-
-- [<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jonathan-cohen-bbb2891b4"><a class="LI-simple-link" href='https://www.linkedin.com/in/jonathan-cohen-bbb2891b4?trk=profile-badge'>Jonathan Cohen</a></div>][linkedin]
-- Looking to check out my work? [Portfolio]
-- Interested in the music I've made? [SoundCloud]
-<br />
-<br />
 
 ## Languages
 
 <br />
-
-[linkedin]: https://www.linkedin.com/in/jonathan-cohen-bbb2891b4/
-[SoundCloud]: https://soundcloud.com/itsdrifta
-[Portfolio]: https://jonathan-co-portfolio.netlify.app/
-
-
 <!-- **JDC1492/JDC1492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile! -->
