@@ -1,4 +1,4 @@
-![18741489-CD6F-46CA-B097-B5F213165A21_1_105_c] (https://user-images.githubusercontent.com/65975460/110826939-92ba7b00-8263-11eb-8500-228e2ae70025.jpeg)
+![banner](https://user-images.githubusercontent.com/65975460/110845713-f0a58d80-8278-11eb-90a0-8843c16af09b.png)
 
 ### Welcome! My name is Jonathan.
 
